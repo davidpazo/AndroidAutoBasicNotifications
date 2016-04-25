@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="20130635311153" >
+
+    <task
+        name="javac"
+        duration="1668" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="352" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="20130635311153" >
+        <artifact
+            location="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

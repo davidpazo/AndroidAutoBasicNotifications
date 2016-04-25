@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_8d94b7c524e30688a26c6334e89e430d4f3d0fa8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_35bfa3cd6cce1aab4a0d85e6e35f61ed8d86d7bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-23.3.0_0584bb1d933661fc89b10aa0b99ec59c5b09727d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_7b19292599b3a1393beafe2fd70c45b2be11cd3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_22e2b8251e9e9db1a932e82cdfa1613d444069e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="beefe65d81072a6def4703f00296bbf304ab4638">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1467fb0b0a3aed03317673db5c629ba329eab6b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d2c51ae01b48645f3ed3a7f3311f861083196945">
+        <dex dex="/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3afb690669cba5c8c1ee10732b466432c8eca311/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,555 @@
+[
+    {
+        "outputFile": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2685,
+                    "endColumn": 58,
+                    "endOffset": 2739
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2744,
+                    "endColumn": 56,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2801,
+                    "endColumn": 53,
+                    "endOffset": 2850
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2855,
+                    "endColumn": 42,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 42,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 69,
+                    "endOffset": 2963
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2968,
+                    "endColumn": 42,
+                    "endOffset": 3006
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3011,
+                    "endColumn": 43,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 44,
+                    "endOffset": 3095
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3100,
+                    "endColumn": 42,
+                    "endOffset": 3138
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3143,
+                    "endColumn": 41,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 67,
+                    "endOffset": 3248
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3253,
+                    "endColumn": 55,
+                    "endOffset": 3304
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 55,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3309,
+                    "endLine": 36,
+                    "endColumn": 13,
+                    "endOffset": 4552
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4557,
+                    "endLine": 47,
+                    "endColumn": 13,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endLine": 29,
+                        "endColumn": 13,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 50,
+                    "endOffset": 4942
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4947,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 5356
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5361,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 5420
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5425,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5546
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5551,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5674
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5679,
+                    "endColumn": 59,
+                    "endOffset": 5734
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5739,
+                    "endColumn": 52,
+                    "endOffset": 5787
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5792,
+                    "endColumn": 26,
+                    "endOffset": 5814
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5819,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 6010
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6015,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 6288
+                },
+                "from": {
+                    "file": "/Users/david.pazo/AndroidStudioProjects/BasicNotifications/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]
